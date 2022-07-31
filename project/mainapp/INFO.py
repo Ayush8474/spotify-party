@@ -1,0 +1,4 @@
+
+CLIENT_ID = "4399cc6aa1034bf382211ab676d5d4f2"
+CLIENT_SECRET = "c80eaa7161884b93b2a72e21255f92b3"
+REDIRECT_URI = "http://127.0.0.1:8000/api/login-success"
